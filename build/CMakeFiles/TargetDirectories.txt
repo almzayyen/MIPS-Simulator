@@ -1,0 +1,3 @@
+/mnt/c/Users/Abs/Downloads/msim/untitled/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Abs/Downloads/msim/untitled/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Abs/Downloads/msim/untitled/CMakeFiles/untitled.dir
